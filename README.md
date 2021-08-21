@@ -1,2 +1,2 @@
 # Primer_Parcial
-Trabajos comilados
+Trabajos compilados
